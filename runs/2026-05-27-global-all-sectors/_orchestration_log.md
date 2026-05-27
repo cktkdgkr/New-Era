@@ -5,3 +5,7 @@
 
 ## 단계
 - [06:32:41] STAGE=준비 RUN_DIR=/home/user/New-Era/runs/2026-05-27-global-all-sectors/ 생성 완료
+- [06:33:00] STAGE=sector-scan CALL=#1
+- [06:41:00] STAGE=sector-scan VERDICT=PASS DETAIL=8개 섹터 발굴, 기준일 명시, 순위·근거·시간지평 완비, 좁히기 추천 3개, 합의·비합의 구분 존재, 세부 노드 과도 하강 없음
+- [06:45:00] CHECKPOINT_0 CONFIRMED_SECTORS=[핵심광물·전략소재 공급망 재편, AI 전력·냉각·전력망 재구성] (초기 선택)
+- [06:47:00] CHECKPOINT_0 REVISED CONFIRMED_SECTORS=[핵심광물·전략소재 공급망 재편, AI 전력·냉각·전력망 재구성, 우주 인프라·궤도 경제] (사용자 수정: 우주 섹터 추가)
