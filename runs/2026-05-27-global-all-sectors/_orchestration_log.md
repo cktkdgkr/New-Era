@@ -14,3 +14,5 @@
 - [07:05:00] STAGE=feasibility CALL=#1
 - [07:13:00] STAGE=feasibility VERDICT=PASS DETAIL=5개 시나리오 5축 평가 완료. S2(7.70/진행), S4(7.05/진행-조건부), S1(5.80/보류), S3(5.30/보류), S5(3.55/탈락). 추천: S2+S4+S1(조건부)
 - [07:16:00] CHECKPOINT_1 CONFIRMED_SCENARIOS=[S1, S2, S3, S4, S5] (사용자 선택: 전체 5개 모두)
+- [07:17:00] STAGE=capital-flow CALL=#1
+- [07:28:00] STAGE=capital-flow VERDICT=PASS DETAIL=5개 시나리오 5채널 매핑 완료, 자본 유입 시점 전항목 명시, 몰리는곳/안몰린곳 분리, 과열·저평가 신호 존재, value-chain 전달 신호 포함
