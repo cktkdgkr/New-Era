@@ -18,3 +18,5 @@
 - [07:28:00] STAGE=capital-flow VERDICT=PASS DETAIL=5개 시나리오 5채널 매핑 완료, 자본 유입 시점 전항목 명시, 몰리는곳/안몰린곳 분리, 과열·저평가 신호 존재, value-chain 전달 신호 포함
 - [07:29:00] STAGE=value-chain CALL=#1
 - [07:41:00] STAGE=value-chain VERDICT=PASS DETAIL=14개 후보 길목 노드 식별(통과 11+경계선 3), 5개 시나리오 8단계 사슬 분해 완료, 구체 노드 수준(GOES/SiC분말/용매추출제 등), 시나리오 교차 전 노드 2개+ 검증, 대표 주체 글로벌+한국 포함
+- [07:42:00] STAGE=moat CALL=#1
+- [07:54:00] STAGE=moat VERDICT=PASS DETAIL=14개 노드 6축 방어력 평가 완료. 철벽(N5:8.9, N1:8.3), 강한(N10:7.9, N11:7.4, N4:6.0), 보통(N7~N3:5.8~4.5). 마진압축 시나리오 전 노드 명시, 점수 분포 4.5~8.9(SD≈1.3), 상품화 위험 노드 7개 식별
