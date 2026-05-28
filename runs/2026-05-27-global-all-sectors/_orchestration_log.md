@@ -16,3 +16,5 @@
 - [07:16:00] CHECKPOINT_1 CONFIRMED_SCENARIOS=[S1, S2, S3, S4, S5] (사용자 선택: 전체 5개 모두)
 - [07:17:00] STAGE=capital-flow CALL=#1
 - [07:28:00] STAGE=capital-flow VERDICT=PASS DETAIL=5개 시나리오 5채널 매핑 완료, 자본 유입 시점 전항목 명시, 몰리는곳/안몰린곳 분리, 과열·저평가 신호 존재, value-chain 전달 신호 포함
+- [07:29:00] STAGE=value-chain CALL=#1
+- [07:41:00] STAGE=value-chain VERDICT=PASS DETAIL=14개 후보 길목 노드 식별(통과 11+경계선 3), 5개 시나리오 8단계 사슬 분해 완료, 구체 노드 수준(GOES/SiC분말/용매추출제 등), 시나리오 교차 전 노드 2개+ 검증, 대표 주체 글로벌+한국 포함
